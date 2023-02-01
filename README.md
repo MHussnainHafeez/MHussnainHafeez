@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MHussnainHafeez
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web development
+- 🌱 I’m a Mern Stack developer
 - 📫 How to reach me mhussnainhafeez19@gmail.com
 
 <!---
